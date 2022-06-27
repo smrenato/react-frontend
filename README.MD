@@ -2,8 +2,9 @@
 ---
 
 
-## Documenta da API
+## Documentação da API
 * obs: A API pode demorar um pouco para iniciar
+* Hospedada no Heroku
 
 [https://app-projeto-final-backend.herokuapp.com/api-docs]
 
