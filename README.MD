@@ -12,7 +12,7 @@
 ### Versão do react 18.0.0
 
     
-### Para inicar a aplicação:
+### Para iniciar a aplicação:
 
 ```sh
 $ yarn
